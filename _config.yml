@@ -21,21 +21,21 @@ timezone: Australia/Sydney
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: darkcybe                          # the main title
+title: KRAMER-site                          # the main title
 
-tagline: "This is the security blog you've been looking for" # it will display as the sub-title
+tagline: "fuck am i even doing here" # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Cyber Security technical guides and resources for Blue and Red teams
+  waddaup
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://darkcybe.github.io'
 
 github:
-  username: darkcybe             # change to your github username
+  username: kramermillay             # change to your github username
 
 twitter:
-  username: darkcybe            # change to your twitter username
+  username: kramermillay            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,11 +44,11 @@ social:
   email: darkcybe@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/darkcybe      # change to your twitter homepage
-    - https://github.com/darkcybe       # change to your github homepage
+    - https://snapchat.com/kramermillay1      # change to your twitter homepage
+    - https://github.com/kramermillay       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.facebook.com/kramermillay1
+     - https://www.instagram.com/kramermillay
 
 google_site_verification:               # fill in to your verification string
 
@@ -56,7 +56,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-QFH2BQ5ZG5'  # fill in your Google Analytics ID
+  id: ''  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/logo/darkcybe.gif
+avatar: /assets/img/logo/kramermillay.gif
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -95,7 +95,7 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:         # <gh-username>/<repo>
+    repo:        # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
